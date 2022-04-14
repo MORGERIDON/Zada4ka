@@ -3,7 +3,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
 
-
+// tekst
         int[] randomInts = getRandomInts(8);
         printArray(randomInts);
 
